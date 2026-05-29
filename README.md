@@ -1,7 +1,12 @@
 # 🚀 INSTA — Private ID Intelligence
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JybjN6eG83MW54dnFkZ2NkM3k0M3h4MW1wdzhvZ3N0M3NxM2J1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="700">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="180">
+</p>
+
+<p align="center">
+  <b>PRIVATE ID INTELLIGENCE</b><br>
+  Futuristic Instagram Reconnaissance Utility
 </p>
 
 <p align="center">
