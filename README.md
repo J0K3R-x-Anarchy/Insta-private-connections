@@ -23,7 +23,6 @@
 **INSTA** is a futuristic command-line reconnaissance utility for **Private ID Intelligence** with a sleek sci-fi styled interface.
 
 ---
-
 # 🧠 FEATURES
 
 * 🎯 Target Instagram accounts directly from CLI
@@ -36,12 +35,21 @@
 
 ---
 
+# ⚠️ WARNING NOTE
+
+* Avoid excessive or repeated usage in a short time period.
+* If you encounter errors such as `chaining results`, wait for some time before retrying.
+* In some cases, errors may simply indicate that the target user's data is not publicly exposed or leaked yet.
+* Rate limiting or temporary API restrictions may also cause intermittent failures.
+
+
 # 📦 INSTALLATION
 
 ## ⚡ One-Line Install
 
 ```bash
 curl -L "https://github.com/J0K3R-x-Anarchy/Insta-private-connections/releases/download/bin/insta-leak" -o insta && chmod +x insta && sudo mv insta /usr/local/bin/insta
+
 ```
 
 ---
