@@ -20,7 +20,7 @@
 
 # ⚠️ Warning 
 
-This tool is getting rate limit while calling the API please use the manual method shown in instagram: _akshay121_
+This tool is getting rate limit while calling the API please use the manual method shown in instagram: "_akshay121_"
 
 ---
 # 🧠 FEATURES
