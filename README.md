@@ -20,7 +20,7 @@
 
 # ⚡ ABOUT
 
-**INSTA** is a futuristic command-line reconnaissance utility for **Private ID Intelligence** with a sleek sci-fi styled interface.
+This tool is getting rate limit while calling the API please use the manual method shown in instagram: _akshay121_
 
 ---
 # 🧠 FEATURES
